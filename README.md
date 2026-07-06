@@ -95,9 +95,10 @@ class GuilhermeScherner:
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**rates-services**](https://github.com/GuilhermeScherner/rates-services) | Python, FastAPI, MongoDB, React, Docker | Microservices platform pulling crypto rates through a dedicated fetch service, with a React dashboard |
+| [**bank**](https://github.com/GuilhermeScherner/bank) | Python, FastAPI, SQLAlchemy, PostgreSQL | Banking API with accounts and transactions, layered architecture and Alembic migrations |
+| [**data-analyzer**](https://github.com/GuilhermeScherner/data-analyzer) | Python, FastAPI, Vue, Cypress | Data upload and analysis tool with a FastAPI backend and E2E-tested frontend |
 | [**bank-simulator**](https://github.com/GuilhermeScherner/bank-simulator) | Python, FastAPI, Kafka, Docker | Event-driven microservices banking system |
-| [**pomar**](https://github.com/GuilhermeScherner/pomar) | Python, FastAPI, React, PostgreSQL | Full-stack application with Docker |
-| [**game-2048-allegro**](https://github.com/GuilhermeScherner/game-2048-allegro) | C, Allegro | 2048 game built in C with Allegro graphics |
 | [**proffy**](https://github.com/GuilhermeScherner/proffy) | TypeScript, React Native, Node.js | Cross-platform mobile education app |
 
 ---
