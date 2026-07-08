@@ -66,14 +66,6 @@ class GuilhermeScherner:
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeScherner&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" />
-</p>
-
----
-
 ### 3D Contribution Graph
 
 <p align="center">
